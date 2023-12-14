@@ -1,8 +1,8 @@
 # .gitignore
 
 # Ignore these folders
-buld
-Build2
-Build3
-Build4
-Build5
+buld/
+Build2/
+Build3/
+Build4/
+Build5/
