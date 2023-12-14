@@ -349,6 +349,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Controller.cs"
 "Assets/Scripts/Lightings.cs"
+"Assets/Scripts/script_1.cs"
+"Assets/Scripts/script_2.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
